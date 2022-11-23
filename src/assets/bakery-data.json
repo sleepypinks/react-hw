@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Thousand Layers",
+    "description": "Very airy custard slices layered with cream",
+    "cooking_time": 12,
+    "image": "images/anika.png",
+    "vegan": "yes",
+    "gluten_free": "no"
+  },
+  {
+    "name": "Hand-made Lamb Dumpling",
+    "description": "A homemade, hand-folded dough, wrapping a savory all lamb filling.",
+    "cooking_time": 55,
+    "image": "images/aubrey.png",
+    "vegan": "no",
+    "gluten_free": "no"
+  },
+  {
+    "name": "Stir-fried Beans",
+    "description": "String beans seasoned with mildly spicy dry chili",
+    "cooking_time": 15,
+    "image": "images/connie.png",
+    "vegan": "yes",
+    "gluten_free": "yes"
+  },
+  {
+    "name": "Bobas Milk Ice Cream Bar",
+    "description": "Bobas Milk Ice Cream Bar with jelly fillings",
+    "cooking_time": 60,
+    "image": "images/dylan.png",
+    "vegan": "yes",
+    "gluten_free": "yes"
+  },
+  {
+    "name": "Kavap",
+    "description": "Marinated lamb kebabs made using a family recipe",
+    "cooking_time": 35,
+    "image": "images/isaac.png",
+    "vegan": "no",
+    "gluten_free": "yes"
+  },
+  {
+    "name": "Leek Dumpling",
+    "description": "Homemade vegetarian dumplings stuffed with egg, fresh chives, minced shrimp and glass noodles.",
+    "cooking_time": 45,
+    "image": "images/jeff.png",
+    "vegan": "yes",
+    "gluten_free": "no"
+  },
+  {
+    "name": "Meefen",
+    "description": "Spicy house made chili paste stir fried with gluten free rice noddles, chicken and celery create an aromatic flavor",
+    "cooking_time": 55,
+    "image": "images/jenny.png",
+    "vegan": "no",
+    "gluten_free": "yes"
+  },
+  {
+    "name": "Not your Typical Honey Cake",
+    "description": "Consists of layers os sponge cake with a cream filing and coating, is known for its lengthly preparation.",
+    "cooking_time": 40,
+    "image": "images/jessie.png",
+    "vegan": "yes",
+    "gluten_free": "yes"
+  },
+  {
+    "name": "Jahunger Noodles",
+    "description": "Hand-pulled noodles topped with thin slices of beef, seasoned with a tongue-numbing secret sauce prepared using Sichuan peppercorns.",
+    "cooking_time": 75,
+    "image": "images/kelly.png",
+    "vegan": "no",
+    "gluten_free": "no"
+  },
+  {
+    "name": "Asian Rice",
+    "description": "A bowl of traditional Asian white rice.",
+    "cooking_time": 30,
+    "image": "images/lauren.png",
+    "vegan": "yes",
+    "gluten_free": "yes"
+  },
+  {
+    "name": "Chicken Stew",
+    "description": "Chicken, broad hand pulled noodles, so thinly sliced as to be nearly translucent, potatoes, and green peppers.",
+    "cooking_time": 110,
+    "image": "images/melissa.png",
+    "vegan": "no",
+    "gluten_free": "no"
+  },
+  {
+    "name": "Home Made Yogurt",
+    "description": "Home made yogurt topping with high-quality organic honey with curshed walnuts.",
+    "cooking_time": 40,
+    "image": "images/miku.png",
+    "vegan": "yes",
+    "gluten_free": "yes"
+  }
+]
