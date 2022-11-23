@@ -1,38 +1,59 @@
+/* Add styling for your page here */
+
 .App {
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+h1 {
+  text-align: center;
+  padding: 20px;
+  text-shadow: 0 1px 1px rgba;
+  text-transform: uppercase;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.main {
+  display: flex;
+  flex-direction: row;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.BakeryContainer  {
+    flex: 75%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+.BakeryItem {
+  width: 300px;
+  height: auto;
+  background-color: #DCEAFC;
+  justify-content: center;
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  margin: 20px;
+  padding: 20px;
 }
 
-.App-link {
-  color: #61dafb;
+.BakeryImage {
+  max-width: 18vw;
+  max-height: 18vw;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.FilterOptions{
+  flex: 45%;
+  float: left;
+  margin: 20px;
+  padding: 20px;
+}
+
+.Banner{
+  overflow: hidden; 
+  display: flex; 
+  justify-content:space-around;
+}
+
+.Icon {
+  padding: 20px;
 }
